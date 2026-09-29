@@ -1,4 +1,2 @@
-
-streamlit>=1.40.0
-pandas>=2.2.0
+streamlit>=1.36.0
 openai>=1.30.0
